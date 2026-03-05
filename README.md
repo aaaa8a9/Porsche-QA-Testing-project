@@ -162,7 +162,7 @@
 </td>
 <td align="center">
 <img src="https://avatars.githubusercontent.com/u/244847786?v=4" width="70"/><br>
-<b>Julia</b><br>
+<b>Julia Bacherikova</b><br>
 <a href="https://github.com/Julia-306"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" /></a> • <a href="https://www.linkedin.com/in/julia-bacherikova/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" /></a>
 </td>
 </tr>
